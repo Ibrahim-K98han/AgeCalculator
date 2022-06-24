@@ -18,7 +18,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Age Calculator"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:textSize="25sp"
         android:textStyle="bold"
         android:padding="15dp"
@@ -37,7 +37,7 @@
         android:layout_marginTop="50dp"
         android:text="ENTER YOUR DOB"
         android:textColor="@color/white"
-        android:background="@drawable/background_shap"/>
+        android:background="@drawable/button_shap"/>
 
     <TextView
         android:id="@+id/textView1"
